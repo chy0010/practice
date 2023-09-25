@@ -17,6 +17,7 @@ public class main {
             }
             if (torf == true && j!=2) {
                 System.out.println(j);
+                System.out.println(j);
             }
             j++;
         }
